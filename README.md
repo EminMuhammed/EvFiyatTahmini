@@ -14,3 +14,6 @@ Proje Aşamaları:
 3) Veri Ön İşleme
 4) Makine Öğrenmesi Modelinin Uygulanması
 5) Tkinter İle Arayüz Yapılması
+
+Projenin anlatıldığı YouTube Link'i;
+https://www.youtube.com/watch?v=7xarrIPdi7o
